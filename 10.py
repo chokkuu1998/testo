@@ -1,8 +1,8 @@
-wW=int(input())
+ww=int(input())
 ss=0
-mm=len(str(wW))
-while Ww>0:
-    a=int(Ww)%10
+mm=len(str(ww))
+while ww>0:
+    a=int(ww)%10
     ss=ss+(a**mm)
-    wW=wW//10
+    ww=ww//10
 print(ss)
